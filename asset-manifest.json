@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DanFlix-react-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/DanFlix-react-app/static/js/main.49398f09.chunk.js",
-    "main.js.map": "/DanFlix-react-app/static/js/main.49398f09.chunk.js.map",
-    "runtime-main.js": "/DanFlix-react-app/static/js/runtime-main.ec2f094c.js",
-    "runtime-main.js.map": "/DanFlix-react-app/static/js/runtime-main.ec2f094c.js.map",
-    "static/js/2.530b910a.chunk.js": "/DanFlix-react-app/static/js/2.530b910a.chunk.js",
-    "static/js/2.530b910a.chunk.js.map": "/DanFlix-react-app/static/js/2.530b910a.chunk.js.map",
-    "index.html": "/DanFlix-react-app/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/DanFlix-react-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.530b910a.chunk.js.LICENSE.txt": "/DanFlix-react-app/static/js/2.530b910a.chunk.js.LICENSE.txt"
+    "main.css": "/DanFlix-react-app/home/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/DanFlix-react-app/home/static/js/main.49398f09.chunk.js",
+    "main.js.map": "/DanFlix-react-app/home/static/js/main.49398f09.chunk.js.map",
+    "runtime-main.js": "/DanFlix-react-app/home/static/js/runtime-main.118cf92f.js",
+    "runtime-main.js.map": "/DanFlix-react-app/home/static/js/runtime-main.118cf92f.js.map",
+    "static/js/2.c9cb2783.chunk.js": "/DanFlix-react-app/home/static/js/2.c9cb2783.chunk.js",
+    "static/js/2.c9cb2783.chunk.js.map": "/DanFlix-react-app/home/static/js/2.c9cb2783.chunk.js.map",
+    "index.html": "/DanFlix-react-app/home/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/DanFlix-react-app/home/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c9cb2783.chunk.js.LICENSE.txt": "/DanFlix-react-app/home/static/js/2.c9cb2783.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec2f094c.js",
-    "static/js/2.530b910a.chunk.js",
+    "static/js/runtime-main.118cf92f.js",
+    "static/js/2.c9cb2783.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.49398f09.chunk.js"
   ]
