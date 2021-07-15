@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DanFlix-react-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/DanFlix-react-app/static/js/main.f990127b.chunk.js",
-    "main.js.map": "/DanFlix-react-app/static/js/main.f990127b.chunk.js.map",
+    "main.js": "/DanFlix-react-app/static/js/main.505d5dee.chunk.js",
+    "main.js.map": "/DanFlix-react-app/static/js/main.505d5dee.chunk.js.map",
     "runtime-main.js": "/DanFlix-react-app/static/js/runtime-main.ec2f094c.js",
     "runtime-main.js.map": "/DanFlix-react-app/static/js/runtime-main.ec2f094c.js.map",
     "static/js/2.530b910a.chunk.js": "/DanFlix-react-app/static/js/2.530b910a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ec2f094c.js",
     "static/js/2.530b910a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f990127b.chunk.js"
+    "static/js/main.505d5dee.chunk.js"
   ]
 }
