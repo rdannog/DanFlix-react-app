@@ -2,7 +2,7 @@
   "name": "aula-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rhayssadandara.github.io/react-films-app",
+  "homepage": "http://rhayssadandara.github.io/DanFlix-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
