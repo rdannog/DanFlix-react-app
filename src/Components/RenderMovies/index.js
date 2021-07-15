@@ -7,6 +7,7 @@ const GlobalStyle = createGlobalStyle`
 body{
   background-color:black;
   color:white;
+  text-decoration:none;
 }
 `
 const Container = styled.div`
