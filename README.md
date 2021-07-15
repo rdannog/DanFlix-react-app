@@ -15,4 +15,4 @@
 - code refactoring
 - a list of interesting movies and tv shows to watch later
 
-<img src="./img/DanFlix.gif"/> 
+<img src="./src/img/DanFlix.gif"/> 
