@@ -49,7 +49,7 @@ export default function App() {
       <div>
         <Title>
         <h1>
-        <Link to="/" style={titleStyle}>DanFlix</Link>
+        <Link to="/DanFlix-react-app/home" style={titleStyle}>DanFlix</Link>
         </h1>
         </Title>
         <Menu>
@@ -67,7 +67,7 @@ export default function App() {
         </Menu>
 
         <Switch>
-          <Route path="/" exact={true}>
+          <Route path="/DanFlix-react-app/home" exact={true}>
             <HomePage/>
           </Route>
           <Route path="/home">
