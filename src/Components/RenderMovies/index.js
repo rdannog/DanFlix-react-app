@@ -26,10 +26,8 @@ display: flex;
 justify-content:center;
 align-items:center;
 flex-direction: column;
-&:hover{
-  border:solid 2px white;
-  border-radius: 8px;
-}
+border-bottom: solid 3px white;
+
 `
 const Img = styled.img`
 width:280px;

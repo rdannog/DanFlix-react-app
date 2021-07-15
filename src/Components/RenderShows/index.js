@@ -20,16 +20,13 @@ border: solid 2px black;
 width: 80vw;
 margin: 1rem;
 padding: 5vh 5vw;
+border-bottom: solid 3px white;
 list-style:none;
 text-align:center;
 display: flex;
 justify-content:center;
 align-items:center;
 flex-direction: column;
-&:hover{
-  border:solid 2px white;
-  border-radius: 8px;
-}
 }
 `
 const Img = styled.img`

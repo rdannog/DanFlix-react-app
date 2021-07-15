@@ -1,27 +1,16 @@
-# VOCABULÁRIO PARA O PRÓXIMO NÍVEL
+# DanFlix - ReactJS challenge 
 
-## API 
-    - Application Programming Interface (Interface para programação de aplicações)
+- A React App rendering data from TheMovieDataBase API
 
-## Para que serve?
-    - É usada para auxiliar no desenvolvimento de sites e aplicativos: cadastro de produtos, cálculo de frete, reservas, etc.
+## What I've learned while constructing this app:
 
-## Verbos HTTP
-    - GET (pegar dados)
-    - POST (enviar dados)
-    - DELETE (apagar dados)
-
-## Endpoint 
-    - link final onde serão consumidos os dados 
-
-## Protocolos de segurança 
-    - Troca de infos com o servidor, feita com segurança (HTTPS, SSL)
-
-## Token 
-    - chave com caracteres aleatórios que garante a segurança dos dados (cadastramos chaves para usar as APIs, varia de API para API a forma de verificação de segurança e uso)
-
-## Formatos de arquivos API 
-    - XML 
-    - JSON 
-
-https://api.themoviedb.org/3/movie/popular?api_key=0f6296ac61ec5966cd4f6b9f39a2b01c&language=en-US&page=1
+- to create logic based on project needs
+- that I can't control anything without managing time
+- that I can learn from my own coding mistakes
+- how to use **styled-components** lib
+- how to use **axios** lib
+- how to use **routing** lib
+- how to get data from **API** and processing it's response
+- how to use **componentDidMount()** lifecycle method
+- code refactoring
+- a list of interesting movies and tv shows to watch later
